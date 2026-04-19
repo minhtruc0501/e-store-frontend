@@ -67,7 +67,6 @@ export default function HeroSection() {
             </motion.div>
           </div>
           
-          {/* CỘT PHẢI: HÌNH ẢNH SẢN PHẨM */}
           <div className="md:w-1/2 relative flex justify-center">
             <motion.div
               initial={{ opacity: 0, scale: 0.9, y: 30 }}

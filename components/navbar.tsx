@@ -65,7 +65,7 @@ export default function Navbar() {
             <Apple size={18} className="text-white" />
           </div>
           <span className="text-xl font-bold text-slate-900 tracking-tight">
-            E-Store
+           Trực-shop
           </span>
         </Link>
 
